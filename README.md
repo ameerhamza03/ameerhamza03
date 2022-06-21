@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamza03&label=Profile%20views&color=0e75b6&style=flat" alt="ameerhamza03" /> </p>
+
 ### Hi there 👋, I’m Ameer Hamza
 - 👀 I’m interested in Data Science as well as Cyber Security
 - 🌱 I’m currently learning Python, R Studio & ML
