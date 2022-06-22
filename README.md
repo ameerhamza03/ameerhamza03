@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Ameer Hamza
+# Hi there 👋, I’m Ameer Hamza
 
 🔭 I’m currently learning the field of Data Science<br><br>
 🌱 Learning Data mining, and Advanced statistical techniques<br><br>
