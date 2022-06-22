@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ameerhamza03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza03&theme=dark&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
