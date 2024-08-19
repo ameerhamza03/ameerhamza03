@@ -27,4 +27,6 @@
 ### ✍️ Data science Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 > "Data is the new oil, but it’s valuable only when refined." — Clive Humby
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
