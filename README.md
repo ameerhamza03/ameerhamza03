@@ -25,8 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza03&theme=dark&hide_border=true)<br/>
 
 ### ✍️ Data science Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-> "Data is the new oil, but it’s valuable only when refined." — Clive Humby
 ![Custom Quote](https://img.shields.io/badge/-"Data%20is%20the%20new%20oil,%20but%20it’s%20valuable%20only%20when%20refined."%20—%20Clive%20Humby-blueviolet)
 
 ---
