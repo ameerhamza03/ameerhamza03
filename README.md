@@ -10,11 +10,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamza03)<br> 
-
-[![](https://visitcount.itsvg.in/api?id=ameerhamza03&icon=5&color=0)](https://visitcount.itsvg.in)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ameerhamza.fb/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100073188613618)
+[![](https://visitcount.itsvg.in/api?id=ameerhamza03&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 # 💻 Tech Stack:
