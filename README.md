@@ -3,7 +3,7 @@
 🔭 I’m currently learning the field of Data Science<br><br>
 🌱 Learning Data mining, and Advanced statistical techniques<br><br>
 👯 I’m looking to collaborate on Opensource Projects<br><br>
-👨‍💻 All of my projects are available at [My Portfolio](https://github.com/ameerhamza03)<br><br>
+👨‍💻 All of my projects are available at [My Portfolio](https://ameerhamza03.github.io/iPortfolio/)<br><br>
 💬 Ask me about Java, R, Python, Data visualization, Database management and architecture<br><br>
 ⚡ Fun fact I play games and go to the GYM very often.
 
