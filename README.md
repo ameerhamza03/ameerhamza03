@@ -4,6 +4,8 @@
 🌱 Learning Data mining, and Advanced statistical techniques<br><br>
 👯 I’m looking to collaborate on Opensource Projects<br><br>
 👨‍💻 All of my projects are available at [My Portfolio](https://ameerhamza03.github.io/iPortfolio/)<br><br>
+   Another profile my profile available at [My Portfolio](https://aafapbjy.manus.space/)<br><br>
+   Same with another color scheme [My Portfolio](https://aafapbjy.manus.space/)<br><br>
 💬 Ask me about Java, R, Python, Data visualization, Database management and architecture<br><br>
 ⚡ Fun fact I play games and go to the GYM very often.
 
